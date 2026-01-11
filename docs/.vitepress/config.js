@@ -1,6 +1,7 @@
 import mathjax3 from 'markdown-it-mathjax3'
 
 export default {
+  base: '/study-hub/',
   title: 'Study Hub',
   description: 'Comprehensive Exam Preparation Resource',
   markdown: {
